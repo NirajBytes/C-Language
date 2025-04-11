@@ -28,3 +28,4 @@ Rules for Switch Statement
 3> Case must come inside switch. 
 
 4> break is not a must.
+*/

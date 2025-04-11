@@ -1,7 +1,7 @@
 /*
 WHAT IS FORMAT SPECIFIER  ?
 
-is away to tell campiler what type of data in variables during taking input displaying output to user
+Is a way to tell campiler what type of data in variables during taking input displaying output to user
 printf("This is a good boy %a.bf", var); will print var with b decimal points in a 'a' character space.
 Lets to to our IDE and learn more about the format specifiers
 

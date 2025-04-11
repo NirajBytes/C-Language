@@ -12,7 +12,7 @@ switch(age){
                             break;
     case 3 :printf("you are between 10 to 17 you caN vote for kids");
                             break;
-    default : printf("i think you can not exist 😂 ");
+    default : printf("i think you can not exist  ");
     break;
 
 }
